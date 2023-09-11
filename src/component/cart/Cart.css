@@ -1,0 +1,18 @@
+.cart-container{
+    border: 2px solid darkslategray;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 15px;
+    background: #ddd;
+
+
+}
+
+.cart-container img{
+    width: 150px;
+    margin-right: 20px;
+}
+
+/* .cart-Card{
+
+} */
